@@ -32,5 +32,10 @@ Options:
   -s, --strict      Strict mode (abort on SSD/COW/NTFS)
 ```
 
+## Download
+
+[![Download eXpurg](https://img.shields.io/badge/Download-eXpurg-blue?style=for-the-badge&logo=github)](https://github.com/victormeloasm/eXpurg/releases/download/eraser/eXpurg.zip)
+
+
 ## License
 MIT License © 2025 Víctor Duarte Melo <victormeloasm@gmail.com>
